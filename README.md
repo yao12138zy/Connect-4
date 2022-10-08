@@ -1,6 +1,10 @@
 # Connect-4 Game 
 This project is an implementation of Connect 4. 
 
+# Usage
+Run game_GUI.py to start the game  
+
+
 ## Modes 
 - PVP mode: two users play against each other. 
 - PVC mode: a user plays against the program, which has a high win rate. 
